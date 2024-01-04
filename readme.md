@@ -1,5 +1,5 @@
-# Vim keybindings for vscode
+# Vim Key Bindings for VSCode
 
-For Windows:
-- `cd ~/AppData/Roaming/Code/User`
-- `git clone https://github.com/james-brattin/vscode-bindings`
+Windows:
+1. `cd ~/AppData/Roaming/Code/User`
+2. `git clone https://github.com/james-brattin/vscode-bindings`
